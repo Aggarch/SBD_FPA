@@ -39,14 +39,18 @@ shinyUI(navbarPage(title = "Stanlytics FP&A",
                               tags$link(rel =  "icon", 
                                         type = "image/png", 
                                         href = "images/logo_icon.png")
-                            )
+                            ),
+                            includeHTML("footer2.html"),
+                            
                    ),
                    
                    # ----------------------------------
                    # tab panel 2 - Innovation Browser
                    tabPanel("Hoppe Innovation",
                             neighborhoodDescription(),
-                            includeHTML("scrollToTop.html")
+                            includeHTML("scrollToTop.html"),
+                            includeHTML("footer2.html"),
+                            
                    ),
                    
                    # ----------------------------------
