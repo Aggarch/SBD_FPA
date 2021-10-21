@@ -5,8 +5,16 @@
     tagList(
         div(class = "container",
             h1("Projects Browser", class = "title fit-h1"),
-            p("You are new to New York City or real estate investment? Use Intelligentsia's neighborhood browser to identify pockets of opportunity in the city."),
-            p("Use the map to browse New York City's gentrifying census tracts. Click on any one of them to get more detailed information. Use the slider to show only the top k tracts.")
+            p("First time dealing with massssive amounts of Financial Data!?,  Use Stanlytics FP&A Transformation Guidance to adress your Analysis & subsequently your Business goals."),
+            
+            p("At Stanlytics we analyze our financial data flows in deep at a transactional level to offer Automatic Reports,
+               Dashboards & Interactive WebApps that intend to inspire our Decision Makers,
+               we use Cutting Edge Technologies & our Business Experts Insights to create each deliverable with High Quality Standards."),
+            
+            p("We want to share with you a few of the Decision Intelligence Solutions we designed, Click at each subtitle to explore!"),
+            
+            p("Our Engine: Contribute to data democratization & financial literacy.")
+            
         ),
         
         
