@@ -46,10 +46,10 @@ shinyUI(navbarPage(title = "Stanlytics FP&A",
                    
                    # ----------------------------------
                    # tab panel 2 - Innovation Browser
-                   tabPanel("Hoppe Innovation",
+                   tabPanel("Projects",
                             neighborhoodDescription(),
                             includeHTML("scrollToTop.html"),
-                            includeHTML("footer2.html"),
+                            
                             
                    ),
                    
