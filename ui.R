@@ -45,7 +45,7 @@ shinyUI(navbarPage(title = "Stanlytics FP&A",
                    ),
                    
                    # ----------------------------------
-                   # tab panel 2 - Innovation Browser
+                   # tab panel 2 - Projects Browser
                    tabPanel("Projects",
                             neighborhoodDescription(),
                             includeHTML("scrollToTop.html"),
@@ -54,13 +54,7 @@ shinyUI(navbarPage(title = "Stanlytics FP&A",
                    ),
                    
                    # ----------------------------------
-                   # tab panel 3 - Location Comparison
-                   #  tabPanel("Business Acumen",
-                   #            propertyComparison()
-                   # ),
-                   
-                   # ----------------------------------
-                   # tab panel 4 - About
+                   # tab panel 3 - About
                    tabPanel("About",
                             includeHTML("about.html"),
                             shinyjs::useShinyjs(),
