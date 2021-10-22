@@ -10,7 +10,7 @@ title: Projects
 <br />
 
 
-#### [ **Market Observer** ](https://andresgarcia.shinyapps.io/MQF-UAH/)
+#### [ **Market Observer** ](https://andresgarcia.shinyapps.io/SBD_MarketObserver/)
 2021
 
 *This Interactive Web App helps to monitor US Inflation. The monitor includes the latest available inflation print, Breakeven Inflation expectations & some Text Mining on FOMC Minutes,It also offers Market Data, we can describe Time Series and Forecast the using Dinamyc ARIMA models, The Underlying idea It's to enrich the WebApp with very High Level Data, as well as SBD Business KPIs, to correlate variables & Build Statistical Estimations*
