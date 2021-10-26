@@ -22,7 +22,7 @@ title: Projects
 <br />
 
 
-#### [<div style="text-align: justify"> **K.Hoppe Innovation Dashboard**</div>](https://app.powerbi.com/groups/9f82e39d-3e34-423b-ba3c-99ba9d84f79e/reports/967d0dd2-186f-4068-b556-29652363c728/ReportSection43059c9d55380fd42288)
+#### [<div style="text-align: justify"> **K.Hoppe Innovation Dashboard**</div>](https://app.powerbi.com/groups/me/reports/43b3007f-b812-4d9f-9e30-a8bc36ef5461/ReportSection1e62e6a1e0c4de19d50c)
 2021
 
 *Power BI Dashboards Are Here to Stay!, K.Hoppe Innovation Dashboard It's triggered by a R Script that automate all the Data Manipulation, as well as Alteryx, just a little bit faster & Explicit, This Dashboard Reflect the variation between The Forecast (F10 at this momment), The Operating Plan & the Actuals, across different Time Windows(MTD,QTD,YTD), Actuals came directly from KSB1 report for this cost center: Advd Customer Eng, Radical Innovation, Digital Partnership, Digital Products*
