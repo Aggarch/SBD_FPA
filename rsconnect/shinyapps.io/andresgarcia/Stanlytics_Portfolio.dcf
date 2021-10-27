@@ -5,9 +5,9 @@ account: andresgarcia
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 4930652
-bundleId: 5165194
+bundleId: 5180628
 url: https://andresgarcia.shinyapps.io/Stanlytics_Portfolio/
-when: 1634881868.34937
-lastSyncTime: 1634881868.34937
+when: 1635292395.00757
+lastSyncTime: 1635292395.00757
 asMultiple: FALSE
 asStatic: FALSE
